@@ -1,0 +1,6 @@
+div{
+    display: inline;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: nowrap;
+}
